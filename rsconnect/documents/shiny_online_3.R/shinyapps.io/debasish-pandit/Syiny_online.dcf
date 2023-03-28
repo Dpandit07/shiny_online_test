@@ -1,0 +1,14 @@
+name: Syiny_online
+title: Syiny_online
+username:
+account: debasish-pandit
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8693829
+bundleId: 7017426
+url: https://debasish-pandit.shinyapps.io/Syiny_online/
+when: 1679992022.48204
+lastSyncTime: 1679992022.48205
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: shiny_onlie_answer.R|shiny_online.R
